@@ -15,7 +15,7 @@ export default function CharacterPage() {
     return (
         <div>
 
-
+            dasdawd
             
         </div>
     )
